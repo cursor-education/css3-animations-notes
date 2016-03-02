@@ -10,8 +10,9 @@
   - css \w transition https://jsfiddle.net/7b50bu2u/
 - CSS Animations (\w keyframes)
   - css \w keyframes https://jsfiddle.net/7b50bu2u/1/
+  - clouds https://jsfiddle.net/7b50bu2u/2/
+- Canvas
+  - https://jsfiddle.net/2grcc07e/
 
-
-
-
-- 
+## Read
+- https://www.kirupa.com/html5/introduction_to_animation_html.htm
