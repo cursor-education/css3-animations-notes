@@ -11,6 +11,7 @@
 - CSS Animations (\w keyframes)
   - css \w keyframes https://jsfiddle.net/7b50bu2u/1/
   - clouds https://jsfiddle.net/7b50bu2u/2/
+  - window loader https://jsfiddle.net/u1yf43mq/
 - Canvas
   - https://jsfiddle.net/2grcc07e/
 
